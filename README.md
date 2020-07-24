@@ -1,7 +1,5 @@
 # database-configration-and-mapping by using xml based
 
-https://www.javacodegeeks.com/2015/12/one-many-xml-mapping-hibernate.html
-
 1. Hibernate Configuration setup
 Make sure we have the hibernate.cfg.xml file configured and added to the project structure in the classpath.
 
